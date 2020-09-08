@@ -1,0 +1,146 @@
+body
+{
+  margin: 0px;
+  background-color: black;
+}
+
+img
+{
+  margin-top: 150px;
+  margin-left:130px;
+  width: 1000px;
+  height: 500px;
+}
+.second-container
+{
+  font-size: 20px;
+  position: absolute;
+  top: 500px;
+  left: 245px;
+  color: #dddddd;
+}
+.second-line
+{
+  font-size: 20px;
+  position: absolute;
+  top: 540px;
+  left: 320px;
+  color: #dddddd;
+}
+.third-line
+{
+  font-size: 20px;
+  position: absolute;
+  top: 580px;
+  left: 520px;
+  color: #dddddd;
+}
+.title-container
+{
+  height: 100%;
+  width: 100px;
+  background-color: #01786F;
+  position: relative;
+  bottom: 650px;
+  width: 100%;
+  height: 80px;
+  text-align: center;
+  font-size: 30px;
+  color: black;
+}
+.mahad
+{
+  width:200px;
+  height: 200px;
+  margin: 0;
+  position: absolute;
+  top: 690px;
+  left: 520px;
+}
+.About-me
+{
+  position: absolute;
+  top: 880px;
+  left: 540px;
+  color: #88304e;
+}
+.data
+{
+  color: #dddddd;
+  position: absolute;
+  top: 950px;
+  left: 140px;
+}
+.second-data
+{
+  color: #dddddd;
+  position: absolute;
+  top: 1000px;
+  left: 200px;
+}
+.hobbies
+{
+  width:200px;
+  height: 200px;
+  position: absolute;
+  top: 1050px;
+  display: inline;
+}
+.hobbie
+{
+  position: absolute;
+  top: 1200px;
+  left: 350px;
+  color: #8ef6e4;
+}
+.hobbies-data
+{
+  color: #dddddd;
+  position: absolute;
+  top: 1250px;
+  left: 325px;
+}
+.hobbies-gify
+{
+  width: 200px;
+  height: 250px;
+  position: absolute;
+  top: 1350px;
+  left: 800px;
+}
+.skill-data
+{
+  position: absolute;
+  top: 1480px;
+  left: 800px;
+  color: #00adb5;
+}
+.skills-points
+{
+  color: #dddddd;
+  position: absolute;
+  top: 1550px;
+  left: 600px;
+  text-align: right;
+}
+.Contact
+{
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  top: 1700px;
+}
+.contact-me
+{
+  color: #7ac7c4;
+  position: absolute;
+  top: 1850px;
+  left: 330px;
+}
+.contact-points
+{
+  color: red;
+  position: absolute;
+  top: 1900px;
+  left: 300px;
+}
